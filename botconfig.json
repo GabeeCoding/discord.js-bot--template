@@ -1,0 +1,12 @@
+{
+    "requirements": {
+        "secrettoken": "inserttokenhere",
+        "prefix": "tb!",
+        "inviteparams": {
+            "permissions": "8"
+        }
+    },
+    "misc": {
+        "clientid": 553674571027316736
+    }
+}
